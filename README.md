@@ -1,6 +1,7 @@
 Robot Framework
 
-Precondition:
+Preconditions
+
 #Python:
 Download the latest verison of python 3 from http://python.org under the downloads section
 
@@ -42,10 +43,10 @@ pip show robotframework
 * Upgrade to the latest version 
 pip install --upgrade robotframework
 
-* Install Selenium
+#Install Selenium
 pip install selenium
 
-* Install Selenium Library
+#Install Selenium Library
 pip install robotframework-seleniumlibrary
 
 * check  installed Python packages
@@ -72,7 +73,7 @@ File/Setting/Plugins -> Search for Intellibot@Master.dev > select Install
 The IntelliBot plugin for Pycharm adds smart editing features to support the Robot Framework. 
 
 
-# Driver installation
+#Driver installation
 To run test Webdrivers are also needed:
 
 *For Chrome Browser download Chomerdriver:
